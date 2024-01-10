@@ -39,5 +39,10 @@ https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home
 La solucion esta en el main.py: el cual baja el archivo requerido para luego realizar su posterior limpieza, dando como resultado un archivo.csv con los requerimientos solicitados.
 Se debe configurar la ruta de Descarga de los archivos si se prefiere otra (Yo configure la ruta por defecto)
 
+Link del video de la solucion:
+
+https://youtu.be/fBbCjY0b4v4
+
+
 Contacto o sugerencias:
 email : rodribogado50@gmail.com
