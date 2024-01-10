@@ -36,7 +36,7 @@ https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home
 - Se requiere un código que ejecute todas las partes, desde el webscraping hasta la generación del archivo csv, debe entregar el código completo y el archivo resultado.
 
 ## Solucion y Consideraciones:
-La solucion esta en el main.py: el cual baja el archivo requerido para luego realizar su posterior limpieza, dando como resultado un archivo.csv con los requerimientos solicitados.
+La solucion esta en el main.py: el cual baja el archivo.zip requerido para luego realizar su posterior limpieza, dando como resultado un archivo.csv con los requerimientos solicitados en el cual se encuentra en la carpeta extracted.
 Se debe configurar la ruta de Descarga de los archivos si se prefiere otra (Yo configure la ruta por defecto)
 
 Link del video de la solucion:
